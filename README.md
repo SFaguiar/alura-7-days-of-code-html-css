@@ -10,12 +10,14 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
  "On this first day, you will develop the application header, normally called Navbar, which includes the logo, the menu with the pages and also the two buttons in the right corner."
  
  ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/7e427bf5-34cb-4061-a6cc-099ec4c5adab)
-
  
 ## Day 2 (done in 30.12.2023)
  "Here you will develop the second section of the page, which is 'About us', something very basic and present on most business pages. In this section, you will have different pieces of text, each with a different size, color, and alignment."
  
  "Today's challenge is to develop the first section of your page, which can also be called the 'header'."
+
+ ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/bea43e47-a46b-4905-b9c0-937bc925e3a9)
+
 
 ## Day 3
  "On that day you will need to work a lot with alignment in CSS, and knowledge of Flexbox or Grid will make your life a lot easier! The section is called 'Metrics and Results' and contains 4 text blocks side by side, each with different blocks inside."
