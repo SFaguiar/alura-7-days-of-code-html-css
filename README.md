@@ -25,6 +25,9 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
 
  The company that hired you asked you to include 4 different metrics, with a title, a subtitle and text:"
 
+ ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/181f0a40-e160-4255-86e4-186999777151)
+
+
 ## Day 4
  "The time has come to play with images, many people's nightmare! In this section, you will have some parts of text and an illustrative image that will have to be aligned correctly. The use of responsive measures is something that can help you a lot."
 
