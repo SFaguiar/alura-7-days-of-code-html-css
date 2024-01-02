@@ -35,8 +35,13 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
 
  ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/b2164445-d0d7-426f-b95d-90c7be315461)
 
-## Day 5
+## Day 5 (done in 02.01.2023)
  "This will probably be the most challenging day, as you will develop the 'Jobs' section of the page, which contains different groups of blocks grouped together and various information about open positions."
+
+ "Continuing, today you will develop perhaps the most important part of the entire project, the vacancies section!"
+
+ ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/ba0fca13-b55f-4086-9ad5-f0f2e539fbb2)
+
 
 ## Day 6
  "Reaching almost the end, you will develop the 'Testimonials' section, which will involve knowledge of changing background color, font size and alignment of text and images."
