@@ -33,6 +33,8 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
 
  "What you're going to do today is the "We're looking for talent" section, but without the job advertising part yet, just up to the image!"
 
+ ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/b2164445-d0d7-426f-b95d-90c7be315461)
+
 ## Day 5
  "This will probably be the most challenging day, as you will develop the 'Jobs' section of the page, which contains different groups of blocks grouped together and various information about open positions."
 
