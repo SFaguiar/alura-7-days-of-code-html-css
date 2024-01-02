@@ -149,3 +149,41 @@ body {
     font-size: 1rem;
     color: var(--text);
 }
+
+.main__jobs {}
+
+.main__jobs__talents {
+    margin: 6rem 5rem 4rem 5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.main__jobs__talents__title {
+    font-weight: 500;
+    font-size: 0.875rem;
+    padding: 0.25rem 0.75rem;
+    color: var(--highlight);
+    background-color: rgba(142, 36, 36, 0.05);
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+}
+
+.main__jobs__talents__subtitle {
+    font-size: 2.25rem;
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+}
+
+.main__jobs__talents__text {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--text);
+    margin-bottom: 4rem;
+}
+
+.main__jobs__talents__image {
+    width: 76rem;
+    height: 25rem;
+}
