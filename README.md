@@ -18,9 +18,12 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
 
  ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/bea43e47-a46b-4905-b9c0-937bc925e3a9)
 
-
-## Day 3
+## Day 3 (done in 02.01.2023)
  "On that day you will need to work a lot with alignment in CSS, and knowledge of Flexbox or Grid will make your life a lot easier! The section is called 'Metrics and Results' and contains 4 text blocks side by side, each with different blocks inside."
+
+ "Continuing, today you will develop a really cool and challenging part: the metrics and results section of your page. It is a very common section on most landing pages we see nowadays.
+
+ The company that hired you asked you to include 4 different metrics, with a title, a subtitle and text:"
 
 ## Day 4
  "The time has come to play with images, many people's nightmare! In this section, you will have some parts of text and an illustrative image that will have to be aligned correctly. The use of responsive measures is something that can help you a lot."

@@ -114,4 +114,38 @@ body {
 .main__header__text {
     font-weight: 400;
     color: var(--text);
+    text-align: center;
+    margin: 0 20.25rem;
+}
+
+.main__metrics {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 7rem 7.5rem 7rem;
+    gap: 2rem;
+}
+
+.main__metrics__metric {
+    display: flex;
+    flex-direction: column;
+}
+
+.main__metrics__metric__number {
+    font-weight: 600;
+    font-size: 3.75rem;
+    color: var(--highlight);
+    margin-bottom: 0.75rem;
+}
+
+.main__metrics__metric__title {
+    font-weight: 500;
+    font-size: 1.125rem;
+    color: var(--title);
+    margin-bottom: 0.5rem;
+}
+
+.main__metrics__metric__text {
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--text);
 }
