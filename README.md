@@ -42,9 +42,12 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
 
  ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/ba0fca13-b55f-4086-9ad5-f0f2e539fbb2)
 
-
-## Day 6
+## Day 6 (done in 03.01.2024)
  "Reaching almost the end, you will develop the 'Testimonials' section, which will involve knowledge of changing background color, font size and alignment of text and images."
+
+ "In today's challenge, you will create the Testimonials section. This section will contain a small text above, a title, an image of a collaborator, as well as her name and position within the company."
+
+ ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/ffde6f41-fd44-4a21-b6b4-8c11011710e0)
 
 ## Day 7
  "On the seventh and final day of the challenge, you will create the bottommost part of the page: the footer. But it's not just any footer, it contains, among other things, an email registration form with a pre-defined value and also a button, both perfectly aligned. You will close with a flourish!"
