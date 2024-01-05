@@ -49,5 +49,9 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
 
  ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/ffde6f41-fd44-4a21-b6b4-8c11011710e0)
 
-## Day 7
+## Day 7 (done in 04.01.2024)
  "On the seventh and final day of the challenge, you will create the bottommost part of the page: the footer. But it's not just any footer, it contains, among other things, an email registration form with a pre-defined value and also a button, both perfectly aligned. You will close with a flourish!"
+
+ In today's challenge you will develop the last section of the page project: the footer.
+
+ In this section you will have to create a title, a small text, a form with an input field for the email and a button. Additionally, there is also a copyright text right below.
