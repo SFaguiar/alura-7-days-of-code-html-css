@@ -55,3 +55,6 @@ You can find the figma project (portuguese) here: https://www.figma.com/file/mm3
  In today's challenge you will develop the last section of the page project: the footer.
 
  In this section you will have to create a title, a small text, a form with an input field for the email and a button. Additionally, there is also a copyright text right below.
+
+ ![image](https://github.com/SFaguiar/alura-7-days-of-code-html-css/assets/50933770/fa516da4-249e-4711-b0cf-6c5517e1ad75)
+
