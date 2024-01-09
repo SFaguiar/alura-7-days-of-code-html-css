@@ -1,6 +1,9 @@
 # Alura #7DaysOfCode in HTML and CSS
  A repository where my progress in the #7DaysOfCode HTML and CSS challenge is saved. The scope of the challenge is "an IT company wants to develop a page aimed at new hires and hired you to develop it."
 
+## Official Description
+ During the 7 Days of HTML and CSS, you will practice the essence of Front-end. You will use all your knowledge of HTML and CSS to develop a real page from a layout in Figma, something you will certainly have to do in your day-to-day life in the market. You will use basic concepts like 'div', 'section', inline for images, responsive measures in CSS, as well as more advanced things like Flexbox, Grid and many others, things that anyone entering the Front-end area needs to know. After practicing these concepts for 7 days straight, you will see that remembering the syntax of each tag and what each one is for will no longer be a difficulty and you will be able to worry more about how to solve the problems.
+
 ## Link to Figma project
 You can find the figma project (portuguese) here: https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?type=design&node-id=0-9878&mode=design&t=w28JzrXvBMLgh4Uq-0
 
